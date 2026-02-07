@@ -1,6 +1,7 @@
 # Objetivo del script:
 - Inundar el registro de vecinos en la red por medio de CDP. Esto puede agotar la memoria ram y/o saturar la CPU de un switch Cisco causando latencia y/o interrupcion de los servicios. Con este script tambien se puede causar ruido, dificultando la visibildad de dispositivos legitimos. 
 
+Video ilustrativo: https://youtu.be/jEswLxYMfo4
 
 **Capturas de pantalla.**
 
