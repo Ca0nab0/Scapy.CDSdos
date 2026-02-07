@@ -2,19 +2,20 @@
 - Inundar el registro de vecinos en la red por medio de CDP. Esto puede agotar la memoria ram y/o saturar la CPU de un switch Cisco causando latencia y/o interrupcion de los servicios. Con este script tambien se puede causar ruido, dificultando la visibildad de dispositivos legitimos. 
 
 
-Capturas de pantalla.
-Ejecucion
+**Capturas de pantalla.**
+
+- Ejecucion
 
 <img width="314" height="149" alt="image" src="https://github.com/user-attachments/assets/4c4a7146-4667-4352-b1a5-56a3a895c6de" />
 
 
-Impacto en el objetivo
+- Impacto en el objetivo
 
 
 <img width="496" height="558" alt="image" src="https://github.com/user-attachments/assets/3f034797-91ae-4454-83f7-065ba9506e40" />
 
 
-Trafico generado
+- Trafico generado
 
 <img width="780" height="449" alt="image" src="https://github.com/user-attachments/assets/9c88eb6b-50c2-4d5b-869f-40d879058154" />
 
@@ -24,7 +25,7 @@ Trafico generado
 
 
 
-Topología (interfaces, VLANs, direccionamiento IP), etc..
+**Topología (interfaces, VLANs, direccionamiento IP), etc..**
 
 
 <img width="428" height="240" alt="image" src="https://github.com/user-attachments/assets/a0cdd55d-aeee-46f5-9a5a-fc73742d48e2" />
